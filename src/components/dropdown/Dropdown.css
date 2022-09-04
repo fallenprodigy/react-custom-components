@@ -1,0 +1,20 @@
+.dd-wrapper {
+  width: 100%;
+  background-color: lime;
+}
+
+.dd-header {
+  background-color: blue;
+}
+
+.dd-header__title {
+  background-color: black;
+}
+
+.dd-header__title--bold {
+  background-color: red;
+}
+
+.dd-header__action {
+  /* background-color: green; */
+}
